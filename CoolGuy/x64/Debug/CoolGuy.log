@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\lingucinhas\CoolGuy\CoolGuy\main.cpp(33,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\lingucinhas\CoolGuy\CoolGuy\main.cpp(83,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CoolGuy.vcxproj -> E:\lingucinhas\CoolGuy\x64\Debug\CoolGuy.exe
